@@ -1,0 +1,15 @@
+# Archivos compilados de Java
+*.class
+*.jar
+
+# Configuración de IDE
+.idea/
+.vscode/
+
+# Archivos temporales de Windows
+Thumbs.db
+Desktop.ini
+
+# Archivos temporales
+*.tmp
+*.log
