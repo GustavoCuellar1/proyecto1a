@@ -51,4 +51,17 @@ Después realiza los siguientes cálculos:
 
 ## Ejecución
 
-Las instrucciones de compilación y ejecución se agregarán de acuerdo con la configuración real del proyecto Java.
+Para ejecutar el programa se necesita:
+
+- Tener instalado el JDK de Java.
+- Contar con Apache NetBeans.
+
+Pasos:
+
+1. Abrir Apache NetBeans.
+2. Abrir el proyecto Java.
+3. Buscar la clase Inicio.java.
+4. Ejecutar el proyecto.
+5. En la ventana principal, seleccionar Programa 1.
+6. Ingresar las coordenadas de los dos puntos.
+7. Presionar el botón Calcular para obtener los resultados.
