@@ -69,8 +69,7 @@ public class Distancia extends javax.swing.JFrame {
         jLabel6.setText("Ingrese X2:");
 
         jLabel7.setFont(new java.awt.Font("Segoe UI", 0, 18)); // NOI18N
-        jLabel7.setText("Ingrese X2:");
-
+       jLabel7.setText("Ingrese Y2:");
         txtX1.addActionListener(this::txtX1ActionPerformed);
 
         btnCalcular.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
