@@ -149,9 +149,7 @@ public class Financiero extends javax.swing.JFrame {
        private void btnCalcularActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnCalcularActionPerformed
 
       double precioBase = Double.parseDouble(txtPrecio.getText());
-     private void btnCalcularActionPerformed(java.awt.event.ActionEvent evt) {
 
-    double precioBase = Double.parseDouble(txtPrecio.getText());
 
     // Obtener los valores de las proposiciones lógicas.
 
