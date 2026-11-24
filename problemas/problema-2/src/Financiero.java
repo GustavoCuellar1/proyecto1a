@@ -148,31 +148,12 @@ public class Financiero extends javax.swing.JFrame {
 
        private void btnCalcularActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnCalcularActionPerformed
 
-        // Variable que almacena el precio base del equipo.
-        double precioBase;
+      double precioBase = Double.parseDouble(txtPrecio.getText());
+     private void btnCalcularActionPerformed(java.awt.event.ActionEvent evt) {
 
-        // Validar que el precio ingresado sea numérico y positivo.
-        try {
-            precioBase = Double.parseDouble(txtPrecio.getText().trim());
+    double precioBase = Double.parseDouble(txtPrecio.getText());
 
-            // Rechazar valores infinitos, negativos o iguales a cero.
-            if (!Double.isFinite(precioBase) || precioBase <= 0) {
-                javax.swing.JOptionPane.showMessageDialog(
-                    this,
-                    "Ingresa un precio mayor que cero."
-                );
-                return;
-            }
-
-        } catch (NumberFormatException e) {
-            // Mostrar una advertencia si el usuario ingresa texto
-            // o deja vacío el campo del precio.
-            javax.swing.JOptionPane.showMessageDialog(
-                this,
-                "Ingresa un precio válido."
-            );
-            return;
-        }
+    // Obtener los valores de las proposiciones lógicas.
 
         // Obtener los valores de las proposiciones lógicas.
         // p: el comprador es estudiante acreditado.
