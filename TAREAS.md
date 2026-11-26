@@ -31,44 +31,28 @@ Cada tarea tendrá una rama independiente, siguiendo los nombres establecidos en
 | Uriel | bodo0105 |
 
 
-
 ## 3. Registro y distribución de tareas
-
-
 
 | ID | Tarea | Rama | Responsable | Usuario GitHub | Revisor | Estado | Enlace PR |
 |---|---|---|---|---|---|---|---|
-| T01 | Organización y asignaciones | organizacion/asignaciones | Gustavo | GustavoCuellar1 | Antonio (diegoapc208) | En proceso | Pendiente |
+| T01 | Organización y asignaciones | organizacion/asignaciones | Gustavo | GustavoCuellar1 | Antonio (diegoapc208) | Integrada | [PR #1](https://github.com/GustavoCuellar1/proyecto1a/pull/1) |
+| T02 | Estructura y base | estructura/base | Gustavo | GustavoCuellar1 | Marcos (marcosal987) | Integrada | [PR #2](https://github.com/GustavoCuellar1/proyecto1a/pull/2) |
+| T03 | Planteamiento web | web/planteamiento | Antonio | diegoapc208 | Lizania (lizania720) | Integrada | [PR #3](https://github.com/GustavoCuellar1/proyecto1a/pull/3) |
+| T04 | Metodología | web/metodologia | Antonio | diegoapc208 | Uriel (bodo0105) | Integrada | [PR #5](https://github.com/GustavoCuellar1/proyecto1a/pull/5) |
+| T05 | Información de integrantes | web/integrantes | Antonio | diegoapc208 | Gustavo (GustavoCuellar1) | Integrada | [PR #7](https://github.com/GustavoCuellar1/proyecto1a/pull/7) |
+| T06 | Programa Java problema 1 | java/problema-1 | Marcos | marcosal987 | Lizania (lizania720) | Integrada | [PR #4](https://github.com/GustavoCuellar1/proyecto1a/pull/4) |
+| T07 | Documentación problema 1 | docs/problema-1 | Marcos | marcosal987 | Uriel (bodo0105) | Integrada | [PR #6](https://github.com/GustavoCuellar1/proyecto1a/pull/6) |
+| T08 | Pruebas problema 1 | pruebas/problema-1 | Marcos | marcosal987 | Antonio (diegoapc208) | Integrada | [PR #11](https://github.com/GustavoCuellar1/proyecto1a/pull/11) |
+| T09 | Programa Java problema 2 | java/problema-2 | Lizania | lizania720 | Marcos (marcosal987) | Integrada | [PR #8](https://github.com/GustavoCuellar1/proyecto1a/pull/8) |
+| T10 | Documentación problema 2 | docs/problema-2 | Lizania | lizania720 | Gustavo (GustavoCuellar1) | Integrada | [PR #9](https://github.com/GustavoCuellar1/proyecto1a/pull/9) |
+| T11 | Pruebas problema 2 | pruebas/problema-2 | Lizania | lizania720 | Antonio (diegoapc208) | Integrada | [PR #10](https://github.com/GustavoCuellar1/proyecto1a/pull/10) |
+| T12 | Resultados y conclusiones | web/resultados | Gustavo | GustavoCuellar1 | Marcos (marcosal987) | Integrada | [PR #12](https://github.com/GustavoCuellar1/proyecto1a/pull/12) |
+| T13 | Estilos CSS | web/estilos | Uriel | bodo0105 | Gustavo (GustavoCuellar1) | Integrada | [PR #13](https://github.com/GustavoCuellar1/proyecto1a/pull/13) |
+| T14 | Presentación final | docs/presentacion | Uriel | bodo0105 | Lizania (lizania720) | Integrada | [PR #14](https://github.com/GustavoCuellar1/proyecto1a/pull/14) |
+| T15 | README y portada del repositorio | docs/portada-repo | Uriel | bodo0105 | Marcos (marcosal987) | Integrada | [PR #15](https://github.com/GustavoCuellar1/proyecto1a/pull/15) |
+| T16 | Revisión final | revision/final | Gustavo | GustavoCuellar1 | Uriel (bodo0105) | Integrada | [PR #16](https://github.com/GustavoCuellar1/proyecto1a/pull/16) |
 
-| T02 | Estructura y base | estructura/base | Gustavo | GustavoCuellar1 | Marcos (marcosal987) | Pendiente | Pendiente |
-
-| T03 | Planteamiento web | web/planteamiento | Antonio | diegoapc208 | Lizania (lizania720) | Pendiente | Pendiente |
-
-| T04 | Metodología | web/metodologia | Antonio | diegoapc208 | Uriel (bodo0105) | Pendiente | Pendiente |
-
-| T05 | Información de integrantes | web/integrantes | Antonio | diegoapc208 | Gustavo (GustavoCuellar1) | Pendiente | Pendiente |
-
-| T06 | Programa Java problema 1 | java/problema-1 | Marcos | marcosal987 | Lizania (lizania720) | Pendiente | Pendiente |
-
-| T07 | Documentación problema 1 | docs/problema-1 | Marcos | marcosal987 | Uriel (bodo0105) | Pendiente | Pendiente |
-
-| T08 | Pruebas problema 1 | pruebas/problema-1 | Marcos | marcosal987 | Antonio (diegoapc208) | Pendiente | Pendiente |
-
-| T09 | Programa Java problema 2 | java/problema-2 | Lizania | lizania720 | Marcos (marcosal987) | Pendiente | Pendiente |
-
-| T10 | Documentación problema 2 | docs/problema-2 | Lizania | lizania720 | Gustavo (GustavoCuellar1) | Pendiente | Pendiente |
-
-| T11 | Pruebas problema 2 | pruebas/problema-2 | Lizania | lizania720 | Antonio (diegoapc208) | Pendiente | Pendiente |
-
-| T12 | Resultados y conclusiones | web/resultados | Gustavo | GustavoCuellar1 | Marcos (marcosal987) | Pendiente | Pendiente |
-
-| T13 | Estilos CSS | web/estilos | Uriel | bodo0105 | Gustavo (GustavoCuellar1) | Pendiente | Pendiente |
-
-| T14 | Presentación final | docs/presentacion | Uriel | bodo0105 | Lizania (lizania720) | Pendiente | Pendiente |
-
-| T15 | README y portada del repositorio | docs/portada-repo | Uriel | bodo0105 | Marcos (marcosal987) | Pendiente | Pendiente |
-
-| T16 | Revisión final | revision/final | Gustavo | GustavoCuellar1 | Uriel (bodo0105) | Pendiente | Pendiente |
+**Pull Request complementario de T16:** [PR #17 – Agregar documento de revisión final](https://github.com/GustavoCuellar1/proyecto1a/pull/17).
 
 
 
