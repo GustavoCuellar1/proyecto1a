@@ -51,7 +51,7 @@ Se desarrolló una página web para presentar el proyecto y a sus integrantes.
 
 - [Guía de actividades](docs/guia-actividad.docx)
 - [Asignaciones del equipo](docs/asignaciones.md)
-- [Presentación final](presentacion/Proyecto_integrador_pruebas_actualizadas.pptx)
+- [Presentación final (PDF)](presentacion/Presentacion_final.pdf)
 - [Registro de tareas](TAREAS.md)
 
 ## 6. Organización del repositorio
