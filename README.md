@@ -73,3 +73,8 @@ El repositorio está organizado en las siguientes carpetas:
 **Proyecto Integrador 1A**
 
 Desarrollado colaborativamente por los cinco integrantes del equipo.
+## 8. Sitio web publicado
+
+El proyecto se encuentra publicado mediante GitHub Pages y puede consultarse en el siguiente enlace:
+
+[Visitar página del Proyecto Integrador 1A](https://gustavocuellar1.github.io/proyecto1a/)
