@@ -106,6 +106,6 @@ Cada tarea tendrá una rama independiente, siguiendo los nombres establecidos en
 
 - **Sitio web del proyecto: https://gustavocuellar1.github.io/proyecto1a/
 
-- **Responsable de publicación de GitHub Pages:** Pendiente de confirmar.
+- **Responsable de publicación de GitHub Pages:** Gustavo (GustavoCuellar1).
 
 - **Distribución de turnos de presentación:** Pendiente de organizar.
