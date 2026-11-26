@@ -108,4 +108,10 @@ Cada tarea tendrá una rama independiente, siguiendo los nombres establecidos en
 
 - **Responsable de publicación de GitHub Pages:** Gustavo (GustavoCuellar1).
 
-- **Distribución de turnos de presentación:** Pendiente de organizar.
+- **Distribución de turnos de presentación:**
+  1. Gustavo: Introducción, objetivo y organización del proyecto (2 minutos).
+  2. Antonio: Planteamiento del problema y metodología (2 minutos).
+  3. Marcos: Problema 1: Distancia (2.5 minutos).
+  4. Lizania: Problema 2: Financiero (2.5 minutos).
+  5. Uriel: Página web, resultados, conclusión y cierre (3 minutos).
+  - **Duración total:** 12 minutos.
